@@ -5,5 +5,5 @@
 #SİSTEM ANALİSTİ                   : FIRAT FEROĞLU
 #YAZILIM GELİŞTİRME UZMANI         : BÜŞRA ÜNLÜ
 #TASARIMCI                         : ELİF KOÇ
-#YAZILIM GELİŞTİRME UZMANI         : FIRAT FEROĞLU
+#YAZILIM GELİŞTİRME UZMANI         : OĞUZHAN SUBAŞ(grup 13 den transfer edildi)
 #TEST UZMANI                       : ERŞAN TAHILLIOĞLU
